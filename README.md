@@ -11,7 +11,7 @@
 
 ### DEMO LINK
 
-[my web-app](url)
+[my web-app](https://henrymishael.github.io/CareerX-box-models/)
 
 ### Author
 
